@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Vishal 👋 :man_technologist:
 
-<!--
-**vishal206/vishal206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/vishal206/vishal206/blob/main/vishalbanner.png" >
 
-Here are some ideas to get you started:
+I'm a computer science student who is passionate about making contributing to open-source , exploring technology, participation hackathons and learning through community. Some technologies I enjoy working with include Android development, firebase and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web 🌎:
+- <a href="https://www.linkedin.com/in/vishal-r-profile/">LinkedIn</a> 💼 
+- <a href="https://twitter.com/karkoartdev">Twitter</a> :memo:
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal206&count_private=true&show_icons=true&hide=stars,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal206&layout=compact)
+
