@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about making contributing to op
 
 ## Find me around the web 🌎:
 - <a href="https://www.linkedin.com/in/vishal-r-profile/">LinkedIn</a> 💼 
-- <a href="https://twitter.com/karkoartdev">Twitter</a> :memo:
+- <a href="https://twitter.com/vishal_r_karko">Twitter</a> :memo:
 
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal206&count_private=true&show_icons=true&hide=stars,issues)
 
