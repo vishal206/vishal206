@@ -2,7 +2,7 @@
 
 <img src="https://github.com/vishal206/vishal206/blob/main/vishalbanner.png" >
 
-I'm a computer science student who is passionate about making contributing to open-source , exploring technology, participation hackathons and learning through community. Some technologies I enjoy working with include Android development, firebase and APIs.
+I'm a computer science student who is passionate about making contributing to open-source, exploring technology, participating in hackathons, and learning through community. Some technologies I enjoy working with include Android development, firebase and APIs.
 
 * :man_technologist: Open source enthusiast
 * :green_circle: Android development with JAVA & KOTLIN
