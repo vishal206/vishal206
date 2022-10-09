@@ -11,7 +11,7 @@ I'm a computer science student who is passionate about making contributing to op
 
 ## Find me around the web 🌎:
 - <a href="https://www.linkedin.com/in/vishal-r-profile/">LinkedIn</a> 💼 
-- <a href="https://twitter.com/vishal_r_karko">Twitter</a> :memo:
+- <a href="https://twitter.com/vishalr206">Twitter</a> :memo:
 
 
 ## Tech stack:
