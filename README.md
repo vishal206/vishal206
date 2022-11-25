@@ -2,7 +2,7 @@
 
 <img src="https://github.com/vishal206/vishal206/blob/main/vishalbanner.png" >
 
-I'm a computer science student who is passionate about making contributing to open-source, exploring technology, participating in hackathons, and learning through community. Some technologies I enjoy working with include Android development, firebase and APIs.
+I'm pursuing B. Tech specializing in Computer Science and Engineering.  And I have also been active in VIT's clubs and chapters as a board member of VIT animation club and a core member of the Mozilla firefox club. Apart from VIT, I'm a core member of a growing community named OpInCo and a design executive in HackThe6ix. And through this experience, I have been able to learn skills like attention to detail, multi-tasking, and communicating with a team. Along with my degree, I learned android application development which helped me participate and win in hackathons, and land an internship at a start-up named Vite-fintech. This is where I started to refine my skills as a developer. 
 
 * :man_technologist: Open source enthusiast
 * :green_circle: Android development with JAVA & KOTLIN
