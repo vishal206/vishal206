@@ -2,11 +2,10 @@
 
 <img src="https://github.com/vishal206/vishal206/blob/main/vishalbanner.png" >
 
-I'm pursuing B. Tech specializing in Computer Science and Engineering.  And I have also been active in VIT's clubs and chapters as a board member of VIT animation club and a core member of the Mozilla firefox club. Apart from VIT, I'm a core member of a growing community named OpInCo and a design executive in HackThe6ix. And through this experience, I have been able to learn skills like attention to detail, multi-tasking, and communicating with a team. Along with my degree, I learned android application development which helped me participate and win in hackathons, and land an internship at a start-up named Vite-fintech. This is where I started to refine my skills as a developer. 
+I am a computer science student with experience in Android development, Java, Python, Firebase, REST API, Data Structure, MySQL, and System Design. I have interned at Vite Fintech Pvt Ltd and Antpod, where I have built and launched apps on the Play Store, integrated APIs and SDKs, and improved UI/UX. I have also worked on personal projects such as PetNation, a pet adoption and donation app, a Corona tracking app, and a Live Coupon Bazar. I am a team player with strong communication and problem-solving skills.
 
-* :man_technologist: Open source enthusiast
 * :green_circle: Android development with JAVA & KOTLIN
-* :seedling: Learning React-native
+* :seedling: Learning React & Django
 * :handshake: Open to collaborate on a project/hackathon
 
 ## Find me around the web 🌎:
