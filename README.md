@@ -6,7 +6,7 @@ An Associate BI Engineer at Condé Nast Technology Lab. I work with React.js to 
 
 <a href="https://www.linkedin.com/in/vishal-r-profile/">![My Skills](https://skillicons.dev/icons?i=linkedin) </a> 
 
-_Open to collaborate on building a product_ 
+_Open to Collaborate_ 
 
 <br>
 
