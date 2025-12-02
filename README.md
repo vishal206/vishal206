@@ -10,7 +10,4 @@
   <img alt="cplusplus" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-| | |
-|---------|-------|
-| **Business Intelligence & Analytics Engineer at Condé Nast**  <br> Building data visualizations, AI-driven interfaces, and Qlik–OpenAI integrations. <br> I develop dashboards, automations, and analytics mashups used across the organization. <br> Active in hackathons & AI events; certified in AWS, Advanced React, and UX/UI. <br><br> 💾 **My Blogs & Devlogs:** [vishalr.dev](https://vishalr.dev/) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal206&layout=compact" /> | 
-| | |
+**Business Intelligence & Analytics Engineer at Condé Nast**  <br> Building data visualizations, AI-driven interfaces, and Qlik–OpenAI integrations. <br> I develop dashboards, automations, and analytics mashups used across the organization. <br> Active in hackathons & AI events; certified in AWS, Advanced React, and UX/UI. <br><br> 💾 **My Blogs & Devlogs:** [vishalr.dev](https://vishalr.dev/)
